@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gld:home|Door43 (gld)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gld|d43-gld repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gld/archive/master.zip|d43-gld.zip]]
+
+**Recent Changes**
+{{changes>ns = gld}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gld|Ethnologue data]]
+
